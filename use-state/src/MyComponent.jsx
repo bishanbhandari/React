@@ -1,4 +1,4 @@
-import React, {use, useState} from 'react';
+import React, {useState} from 'react';
 function MyComponent(){
 
     const[name,setName]=useState("Guest");//returns array with variable and setter function
